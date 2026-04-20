@@ -286,6 +286,14 @@ body {
     color: var(--text-body);
 }
 
+/* 读研理由特殊样式 */
+#grad-reason .card-content p {
+    color: #000000;
+    font-size: 1.05rem;
+    line-height: 1.8;
+    text-indent: 2em;
+}
+
 /* 基本信息网格布局 */
 .info-grid {
     display: grid;
